@@ -1,1 +1,1 @@
-https://github.com/Nist0n/ono-tebe-nado
+https://github.com/Nist0n/ono-tebe-nado-ad
