@@ -33,6 +33,10 @@ body {
   list-style: circle;
 }
 
+.header__links-list-item {
+
+}
+
 .header__links-list-item_no-bullit {
   list-style: none;
 }
@@ -236,6 +240,10 @@ body {
   max-width: 1100px;
 }
 
+.about__column:last-child {
+  text-align: left;
+}
+
 .about__column {
   display: flex;
   flex-direction: column;
@@ -261,6 +269,8 @@ body {
   margin: 100px 0;
   font-size: 40px;
   text-transform: uppercase;
+  text-align: left;
+  width: 100%;
 }
 
 .about__text {
@@ -291,6 +301,7 @@ body {
   align-items: center;
   gap: 5px;
   list-style: none;
+  text-align: center;
 }
 
 .footer__menu-link {
